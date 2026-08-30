@@ -6,7 +6,7 @@
 
 > 输入名字，Agent 自动搜索取景地、推理关联关系，再生成一张二次元角色亲临圣地的巡礼照。
 
-[**👉 立即体验**](https://cyber-anime-pilgrimage.vercel.app/)
+[**👉 立即体验**](https://cyber-anime-pilgrimage.vercel.app/)（推荐使用 Web 端进入）
 
 ![首页预览](./docs/home.png)
 
